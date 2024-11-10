@@ -1,0 +1,14 @@
+Package: rootFinder
+Type: Package
+Title: Numerical Root Finding Methods in R
+Version: 0.1.0
+Author: Joud Hamdan 
+Maintainer: Aya Morsi <g00093785@aus.edu>
+Description: A collection of functions for finding roots of equations using various numerical methods. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2024-11-09 20:56:03 UTC; joudhamdan
